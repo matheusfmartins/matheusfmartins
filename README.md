@@ -11,7 +11,7 @@
 <br>
 :house_with_garden: I’m from Brazil.
 <br>
-:books: I have focused my studies in Offencive Security, getting certificates and trainning on CTF´s. If you want to check it out, <a href="https://github.com/matheusfmartins/Write-ups">here</a> is a link to my CTF´s Write-ups
+:books: I have focused my studies in Offencive Security, getting certificates and trainning with CTF´s. If you want to check it out, <a href="https://github.com/matheusfmartins/Write-ups">here</a> is a link to my CTF´s Write-ups
 
 <br>
 
