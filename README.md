@@ -19,3 +19,11 @@
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-fontanetti-martins-90539b144/)](https://www.linkedin.com/in/matheus-fontanetti-martins-90539b144/)
+
+<br>
+
+<p align="center" width="100%">
+  <img src="banner.jpg" alt="banner" width="100%"/>
+</p>
+
+- Thanks for visiting!
