@@ -1,6 +1,8 @@
 <h1>Welcome</h1>
 <h3>My name is Matheus</h3>
 
+<p>Lover of coding and hacking :heartbeat:
+
 <br>
 
 <h4>About me</h4>
