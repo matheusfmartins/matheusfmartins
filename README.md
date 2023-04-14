@@ -13,7 +13,7 @@
 <br>
 :books: I have focused my studies in Offencive Security, getting certificates and trainning with CTF´s. If you want to check it out, <a href="https://github.com/matheusfmartins/Write-ups">here</a> is a link to my CTF´s Write-ups
 
-<b>Visit my website:</b> <a href="https://matheusfmartins.com.br/">https://matheusfmartins.com.br/</a>
+<b>Visit my website:</b> <a href="https://matheusfmartins.com.br/" target="_blank">https://matheusfmartins.com.br/</a>
 
 <h4>Keep in touch with me</h4>
 <hr>
